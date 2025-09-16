@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <channel id="TV HD">
+    <display-name>TV HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/tvhd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="COLORS HD">
+    <display-name>COLORS HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/colorshd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="STAR PLUS HD">
+    <display-name>STAR PLUS HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/star_plushd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="STAR BHARAT HD">
+    <display-name>STAR BHARAT HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/star_bharathd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="STAR UTSAV">
+    <display-name>STAR UTSAV</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/star_utsav.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="COLORS RISHTY">
+    <display-name>COLORS RISHTY</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/colorsrishty.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="DANGAL">
+    <display-name>DANGAL</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/dangal.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="ZEE ANMOL">
+    <display-name>ZEE ANMOL</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zee_anmol.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="ZEE TV HD">
+    <display-name>ZEE TV HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zeetvhd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="COLORS INFINITE HD">
+    <display-name>COLORS INFINITE HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/colors_infinitehd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="SONY PAL">
+    <display-name>SONY PAL</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonypal.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="SONY SAB HD">
+    <display-name>SONY SAB HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonysabhd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="SONY SAB">
+    <display-name>SONY SAB</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonysab.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="HUM TV HD">
+    <display-name>HUM TV HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/humtvhd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="HUM HD">
+    <display-name>HUM HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/humhd.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+  <channel id="GOLDMINES">
+    <display-name>GOLDMINES</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/goldmines.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR GOLD HD">
+    <display-name>STAR GOLD HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/stargoldhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR GOLD 2 HD">
+    <display-name>STAR GOLD 2 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/stargold2hd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR GOLD SELECT HD">
+    <display-name>STAR GOLD SELECT HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/stargoldselecthd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR GOLD THIRLS HD">
+    <display-name>STAR GOLD THIRLS HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/stargoldthrilshd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR GOLD ROMANCE HD">
+    <display-name>STAR GOLD ROMANCE HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/stargoldromancehd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="SONY MAX HD">
+    <display-name>SONY MAX HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonymaxhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="SONY MAX 2">
+    <display-name>SONY MAX 2</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonymax2.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="SONY WAH">
+    <display-name>SONY WAH</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonywah.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="COLORS CINEPLEX HD">
+    <display-name>COLORS CINEPLEX HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/colorscineplexhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="ZEE CINEMA HD">
+    <display-name>ZEE CINEMA HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zeecinemahd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="PICTURE HD">
+    <display-name>PICTURE HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/picturehd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="ZEE ACTION">
+    <display-name>ZEE ACTION</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zeeaction.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="ZEE BOLLYWOOD">
+    <display-name>ZEE BOLLYWOOD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zeebollywood.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="B4U KADAK">
+    <display-name>B4U KADAK</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/b4ukadak.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="BFLIX">
+    <display-name>BFLIX</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/bflix.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="BOLLYWOOD HD">
+    <display-name>BOLLYWOOD HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/bollywoodhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="MINIPLEX HD">
+    <display-name>MINIPLEX HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/miniplexhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="SONY PIX HD">
+    <display-name>SONY PIX HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonypixhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="MOVIES NOW HD">
+    <display-name>MOVIES NOW HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/moviesnowhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="MN+ HD">
+    <display-name>MN+ HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/mn+hd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="MNX">
+    <display-name>MNX</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/mnx.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR MOVIES HD">
+    <display-name>STAR MOVIES HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starmovieshd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="STAR MOVIES SELECT HD">
+    <display-name>STAR MOVIES SELECT HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starmoviesselecthd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="FLIX HD">
+    <display-name>FLIX HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/flixhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="PRIVE HD">
+    <display-name>PRIVE HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/privehd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="AXN HD">
+    <display-name>AXN HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/axnhd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="HBO HD">
+    <display-name>HBO HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/hbohd.jpg"/>
+    <category lang="en">MOVIES</category>
+  </channel>
+  <channel id="DISNEY HD">
+    <display-name>DISNEY HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/disneyhd.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="DISNEY JR">
+    <display-name>DISNEY JR</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/disneyjr.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="POGO">
+    <display-name>POGO</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/pogo.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="NICK HINDI">
+    <display-name>NICK HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/nickhindi.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="NICKELODEON'S HINDI">
+    <display-name>NICKELODEON'S HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/nickelodeonshindi.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="NICK HD+">
+    <display-name>NICK HD+</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/nickhd+.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name>CARTOON NETWORK HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/cartoonnetworkhd.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="CARTOON NETWORK HINDI">
+    <display-name>CARTOON NETWORK HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/cartoonnetworkhindi.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="SONY YAH">
+    <display-name>SONY YAH</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonyyah.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name>DISCOVERY KIDS</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/discoverykids.jpg"/>
+    <category lang="en">KIDS</category>
+  </channel>
+  <channel id="THE Q">
+    <display-name>THE Q</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/theq.jpg"/>
+    <category lang="en">INFOTAINMENT</category>
+  </channel>
+  <channel id="9XM">
+    <display-name>9XM</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/9xm.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="9X JALWA">
+    <display-name>9X JALWA</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/9xjalwa.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="9X TASHAN">
+    <display-name>9X TASHAN</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/9xtashan.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="B4U MUSIC">
+    <display-name>B4U MUSIC</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/b4umusic.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="MASTI">
+    <display-name>MASTI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/masti.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="MUSIC INDIA">
+    <display-name>MUSIC INDIA</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/musicindia.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="MTV BEASTS HD">
+    <display-name>MTV BEASTS HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/mtvbeastshd.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="UTV BINDASSS">
+    <display-name>UTV BINDASSS</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/utvbindasss.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="ZING">
+    <display-name>ZING</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zing.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="ZOOM">
+    <display-name>ZOOM</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/zoom.jpg"/>
+    <category lang="en">MUSIC</category>
+  </channel>
+  <channel id="FOOD FOOD">
+    <display-name>FOOD FOOD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/foodfood.jpg"/>
+    <category lang="en">LIFESTYLE</category>
+  </channel>
+  <channel id="TRAVEL HD">
+    <display-name>TRAVEL HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/travelhd.jpg"/>
+    <category lang="en">LIFESTYLE</category>
+  </channel>
+  <channel id="GEOGRAPHIC HD HINDI">
+    <display-name>GEOGRAPHIC HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/geographichdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="GEO WILD HD HINDI">
+    <display-name>GEO WILD HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/geowildhdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="DISCOVERY WOULD HD HINDI">
+    <display-name>DISCOVERY WOULD HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/discoverywouldhdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="HISTORY TV 18 HD HINDI">
+    <display-name>HISTORY TV 18 HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/historytv18hdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="ANIMAL PLANET HD HINDI">
+    <display-name>ANIMAL PLANET HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/animalplanethdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="SONY BBC HD HINDI">
+    <display-name>SONY BBC HD HINDI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sonybbchdhindi.jpg"/>
+    <category lang="en">DOCUMENTARY</category>
+  </channel>
+  <channel id="DD SPORTS">
+    <display-name>DD SPORTS</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/ddsports.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="TEN 5 HD">
+    <display-name>TEN 5 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/ten5hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="TEN 1 HD">
+    <display-name>TEN 1 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/ten1hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="TEN 2 HD">
+    <display-name>TEN 2 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/ten2hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="TEN 3 HD">
+    <display-name>TEN 3 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/ten3hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="AAJTAK HD">
+    <display-name>AAJTAK HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/aajtakhd.jpg"/>
+    <category lang="en">News</category>
+  </channel>
+  <channel id="INDIA TV">
+    <display-name>INDIA TV</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/indiatv.jpg"/>
+    <category lang="en">News</category>
+  </channel>
+  <channel id="NEWS NATION">
+    <display-name>NEWS NATION</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/newsnation.jpg"/>
+    <category lang="en">News</category>
+  </channel>
+  <channel id="TV9 MARATHI">
+    <display-name>TV9 MARATHI</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/tv9marathi.jpg"/>
+    <category lang="en">News</category>
+  </channel>
+  <channel id="TV9 KANNADA">
+    <display-name>TV9 KANNADA</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/tv9kannada.jpg"/>
+    <category lang="en">News</category>
+  </channel>
+  <channel id="STAR SPORTS 1 HINDI HD">
+    <display-name>STAR SPORTS 1 HINDI HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsports1hindihd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS 1 HD">
+    <display-name>STAR SPORTS 1 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsports1hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS 2 HD">
+    <display-name>STAR SPORTS 2 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsports2hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS 3">
+    <display-name>STAR SPORTS 3</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsports3.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS ">
+    <display-name>STAR SPORTS</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsports.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS SELECT 1 HD">
+    <display-name>STAR SPORTS SELECT 1 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsportsselect1hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="STAR SPORTS SELECT 2 HD">
+    <display-name>STAR SPORTS SELECT 2 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/starsportsselect2hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel> 
+  <channel id="SPORTS 18 HD">
+    <display-name>SPORTS 18 HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/sports18hd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel> 
+  <channel id="WILLIAM HD">
+    <display-name>WILLIAM HD</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/williamhd.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="ASTRO CRICKET">
+    <display-name>ASTRO CRICKET</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/astrocricket.jpg"/>
+    <category lang="en">Cricket</category>
+  </channel>
+  <channel id="SKY SPORTS CRICKET">
+    <display-name>SKY SPORTS CRICKET</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/skysportscricket.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="FOX CRICKET">
+    <display-name>FOX CRICKET</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/foxcricket.jpg"/>
+    <category lang="en">SPORTS</category>
+  </channel>
+  <channel id="AMAZON">
+    <display-name>AMAZON</display-name>
+    <icon src="http://tv.8dott.xyz/logos2/amazon.jpg"/>
+    <category lang="en">ENTERTAINMENT</category>
+  </channel>
+
+</tv>
