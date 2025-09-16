@@ -4,78 +4,63 @@
   <channel id="&TV HD">
     <display-name>&TV HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/&tvhd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="COLORS HD">
     <display-name>COLORS HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/colorshd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="STAR PLUS HD">
     <display-name>STAR PLUS HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/star_plushd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="STAR BHARAT HD">
     <display-name>STAR BHARAT HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/star_bharathd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="STAR UTSAV">
     <display-name>STAR UTSAV</display-name>
     <icon src="http://tv.8dott.xyz/logos2/star_utsav.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="COLORS RISHTY">
     <display-name>COLORS RISHTY</display-name>
     <icon src="http://tv.8dott.xyz/logos2/colorsrishty.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="DANGAL">
     <display-name>DANGAL</display-name>
     <icon src="http://tv.8dott.xyz/logos2/dangal.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="ZEE ANMOL">
     <display-name>ZEE ANMOL</display-name>
     <icon src="http://tv.8dott.xyz/logos2/zee_anmol.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="ZEE TV HD">
     <display-name>ZEE TV HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/zeetvhd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="COLORS INFINITE HD">
     <display-name>COLORS INFINITE HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/colors_infinitehd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="SONY PAL">
     <display-name>SONY PAL</display-name>
     <icon src="http://tv.8dott.xyz/logos2/sonypal.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="SONY SAB HD">
     <display-name>SONY SAB HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/sonysabhd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="SONY SAB">
     <display-name>SONY SAB</display-name>
     <icon src="http://tv.8dott.xyz/logos2/sonysab.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="HUM TV HD">
     <display-name>HUM TV HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/humtvhd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="HUM HD">
     <display-name>HUM HD</display-name>
     <icon src="http://tv.8dott.xyz/logos2/humhd.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
   <channel id="GOLDMINES">
     <display-name>GOLDMINES</display-name>
     <icon src="http://tv.8dott.xyz/logos2/goldmines.jpg"/>
@@ -474,7 +459,6 @@
   <channel id="AMAZON">
     <display-name>AMAZON</display-name>
     <icon src="http://tv.8dott.xyz/logos2/amazon.jpg"/>
-    <category lang="en">ENTERTAINMENT</category>
-  </channel>
+    </channel>
 
 </tv>
